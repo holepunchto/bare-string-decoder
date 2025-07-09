@@ -1,6 +1,6 @@
 # bare-string-decoder
 
-Node.js-compatible String Decoder for Bare.
+`string_decoder` shim for Bare
 
 ```
 npm i bare-string-decoder

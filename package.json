@@ -1,7 +1,7 @@
 {
   "name": "bare-string-decoder",
   "version": "1.0.0",
-  "description": "Node.js-compatible String Decoder for Bare",
+  "description": "`string_decoder` shim for Bare",
   "exports": {
     ".": {
       "types": "./index.d.ts",
