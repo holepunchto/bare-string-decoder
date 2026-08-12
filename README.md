@@ -12,4 +12,6 @@ Apache-2.0
 
 ## API
 
-See the [full API reference](https://docs.pears.com/reference/bare/modules/bare-string-decoder).
+See the [`bare-string-decoder` reference][reference].
+
+[reference]: https://docs.pears.com/reference/bare/modules/bare-string-decoder
