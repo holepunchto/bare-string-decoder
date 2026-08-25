@@ -6,12 +6,12 @@
 npm i bare-string-decoder
 ```
 
-## License
-
-Apache-2.0
-
 ## API
 
 See the [`bare-string-decoder` reference][reference].
 
 [reference]: https://docs.pears.com/reference/bare/modules/bare-string-decoder
+
+## License
+
+Apache-2.0
