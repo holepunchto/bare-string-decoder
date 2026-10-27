@@ -1,6 +1,6 @@
 {
   "name": "bare-string-decoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "`string_decoder` shim for Bare",
   "exports": {
     ".": {
